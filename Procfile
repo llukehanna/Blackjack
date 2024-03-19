@@ -1,0 +1,1 @@
+web: gunicorn Blackjack:my_flask_app
