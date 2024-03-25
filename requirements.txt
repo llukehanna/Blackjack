@@ -1,4 +1,0 @@
-Flask==1.1.2
-gunicorn==20.0.4
-Jinja2==2.11.2
-# This project uses only the Python Standard Library, no external dependencies are required.
